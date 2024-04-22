@@ -1,3 +1,4 @@
+
 *{
     background-color: black;
     box-sizing: border-box;
@@ -57,4 +58,48 @@ h2{
 .middle{
     margin-top: 80px;
     margin-bottom: 80px;
+}
+p{
+    font-size: 19px;
+    color: rgb(122,2,215);
+}
+.sec2_l2{
+    font-size: 40px;
+    text-align: left;
+}
+.sec2{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.container{
+    width: 276px;
+    height: 254px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    border: 1px solid;
+    color: 
+    #18181b;
+    /* padding: 20px; */
+    justify-content: space-evenly;
+    display: flex;
+    align-items: flex-start;
+}
+.box{
+    padding: 5px;
+    margin: 20px;
+}
+h3{
+    color: white;
+}
+.box_head{
+    color: white;
+}
+.box, p, h3, a{
+    padding: 5px;
+}
+.sec3{
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 300px;
+    padding-top: 100px;
 }
